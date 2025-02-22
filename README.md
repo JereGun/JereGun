@@ -22,43 +22,43 @@ Soy un **estudiante** apasionado por la tecnología y el desarrollo de software.
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/JereGun/JereGun/blob/main/icons/python.svg" width="40"/>
+        <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/JereGun/JereGun/blob/main/icons/django.svg" width="40"/>
+        <img src="https://simpleicons.org/icons/django.svg" alt="Django" width="40"/>
       </a>
       <br>Django
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/JereGun/JereGun/blob/main/icons/csharp.svg" width="40"/>
+        <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="40"/>
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/JereGun/JereGun/blob/main/icons/dotnet.svg" width="40"/>
+        <img src="https://simpleicons.org/icons/dotnet.svg" alt=".NET" width="40"/>
       </a>
       <br>.NET
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/JereGun/JereGun/blob/main/icons/javascript.svg" width="40"/>
+        <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40"/>
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/JereGun/JereGun/blob/main/icons/react.svg" width="40"/>
+        <img src="https://simpleicons.org/icons/react.svg" alt="React" width="40"/>
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/JereGun/JereGun/blob/main/icons/sql.svg" width="40"/>
+        <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="SQL" width="40"/>
       </a>
       <br>SQL
     </td>
