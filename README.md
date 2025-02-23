@@ -1,7 +1,5 @@
 # ¡Hola, bienvenido a mi perfil de GitHub!
 
-<img src="https://github.com/JereGun/JereGun/blob/main/github%20banner.jpg" alt="Mi banner de GitHub" width=100%>
-
 ## 👋 Sobre mí:
 Soy un **estudiante** apasionado por la tecnología y el desarrollo de software.<br>
 ◽ Me interesa el **Desarrollo Full-Stack**, **Backend** y el **Análisis de Datos**.<br>
